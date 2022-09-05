@@ -1,0 +1,50 @@
+{
+	"storyName": "Mr. Bambi's fun corn maze!",
+	"difficulties": "Easy,Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bamboi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blocked",
+			"bambi",
+			[
+				66,
+				233,
+				75
+			]
+		],
+		[
+			"Corn Theft",
+			"bambi",
+			[
+				66,
+				233,
+				75
+			]
+		],
+		[
+			"Maze",
+			"bambi",
+			[
+				66,
+				233,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs Bambi",
+	"hiddenUntilUnlocked": false
+}

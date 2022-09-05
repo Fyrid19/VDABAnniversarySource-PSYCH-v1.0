@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": null,
+		"player1": "bf",
+		"player2": "split-dave",
+		"player3": null,
+		"events": [
+			[
+				313043.47826087,
+				[
+					[
+						"Change Character",
+						"1",
+						"split-bambi"
+					]
+				]
+			],
+			[
+				379826.086956523,
+				[
+					[
+						"Change Character",
+						"1",
+						"split-dave"
+					]
+				]
+			],
+			[
+				396521.739130436,
+				[
+					[
+						"Change Character",
+						"1",
+						"split-bambi"
+					]
+				]
+			],
+			[
+				546782.608695652,
+				[
+					[
+						"Change Character",
+						"1",
+						"split-dave"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 230,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Splitathon"
+	}
+}
