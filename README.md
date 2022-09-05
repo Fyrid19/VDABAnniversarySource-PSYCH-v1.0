@@ -17,3 +17,6 @@ This is a modified version of Psych Engine (named Barren Engine). Follow that gu
 
 yeah not much in this yet
 will have more added on as time goes on
+
+THIS IS A TRASHED BUILD
+SOME OF THE SONGS WILL NOT WORK
